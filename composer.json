@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "AppserverIo\\Lab\\MemcacheProtocol": [
+            "AppserverIo\\Lab\\MemcacheServer": [
                 "src/",
                 "tests/"
             ]

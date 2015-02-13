@@ -21,4 +21,4 @@
  */
 
 $loader = require 'vendor/autoload.php';
-$loader->add('AppserverIo\\Lab\\MemcacheProtocol', 'src');
+$loader->add('AppserverIo\\Lab\\MemcacheServer', 'src');
