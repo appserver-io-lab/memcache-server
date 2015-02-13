@@ -15,7 +15,7 @@
  * @author    Tim Wagner <tw@techdivision.com>
  * @copyright 2015 TechDivision GmbH <info@appserver.io>
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
- * @link      https://github.com/appserver-io/appserver
+ * @link      https://github.com/appserver-io-lab/memcache-server
  * @link      http://www.appserver.io
  * @link      https://github.com/memcached/memcached/blob/master/doc/protocol.txt
  */
@@ -29,7 +29,7 @@ namespace AppserverIo\Lab\MemcacheServer;
  * @author    Tim Wagner <tw@techdivision.com>
  * @copyright 2015 TechDivision GmbH <info@appserver.io>
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
- * @link      https://github.com/appserver-io/appserver
+ * @link      https://github.com/appserver-io-lab/memcache-server
  * @link      http://www.appserver.io
  * @link      https://github.com/memcached/memcached/blob/master/doc/protocol.txt
  */
